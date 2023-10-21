@@ -1,28 +1,26 @@
-# Microsoft-Powerbi-desktop-for-business-intelligence-course-certificate
- Welcome to the repository where I showcase my projects from the Microsoft Power BI Desktop for Business Intelligence course! 
 
-## Certificate
+# Adventure Works Power BI Project
 
-- 🎓 **Certificate of Completion:** [https://udemy-certificate.s3.amazonaws.com/image/UC-a4affd34-e899-4870-89a6-157dea7cb8b2.jpg]
+## Overview
 
-## Course Overview
+Welcome to the Adventure Works Power BI Project, a tangible showcase of my proficiency in business intelligence, built upon the extensive knowledge and skills acquired during my Microsoft Power BI Desktop for Business Intelligence course certification.
 
-In this course, I honed my skills in using Microsoft Power BI Desktop, a powerful tool for data analysis and visualization. 
-I delved into various aspects of business intelligence, including data transformation, data modeling, creating reports, and more.
+## Project Highlights
 
-## Projects
+- **Data Modeling Expertise:** This project exemplifies my adeptness in meticulously shaping and optimizing the data model, ensuring robust and efficient data management.
 
-Here, you can find the project that demonstrate my skills and expertise in Power BI.The project showcases a different aspect of what I learned in the course:
+- **Advanced DAX Functions:** I've demonstrated my proficiency in creating advanced DAX functions, enabling dynamic and insightful calculations.
 
-1. **AdventureWorks Cycles Dashboard**:
-   - Objective: Transform raw data into professional-quality reports and dashboards.
+- **Industry Best Practices:** Through hands-on engagement, I've applied industry best practices to streamline data workflows, enhance data quality, and facilitate actionable insights.
 
-2. **Data Modeling Example**:
-   - Demonstrating my understanding of data modeling best practices.
+- **Real-World Readiness:** This practical experience solidifies my capability to excel in real-world business intelligence scenarios and showcases my commitment to professional growth and expertise in data analysis and reporting.
 
-3. **Calculated Fields with DAX**:
-   - Showcase of DAX expressions, calculated columns, and measures.
+## Project Features
 
-4. **Interactive Reports**:
-   - A sample report with interactive features and visualizations.
+- **Modern Filters:** Utilized modern filters, including drillthrough, for enhanced data exploration.
 
+- **Diverse Chart Types:** Employed various chart types tailored to each category for effective data visualization.
+
+- **Interactive Elements:** Integrated different icons and page navigation features for a seamless user experience.
+
+- **Informative Tooltips:** Implemented interactive tooltips to provide additional context and insights.
